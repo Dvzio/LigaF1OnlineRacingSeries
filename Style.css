@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: linear-gradient(180deg, #f19583 0, #e68379 25%, #d86c6c 50%, #c95561 75%, #bd425b 100%);
+	background-color: gray;
 }
 
 
@@ -114,6 +114,23 @@ a.dc {
 	
 	
 	
+}
+img.węgry{
+float: left;
+margin: 5px;
+width: 40%;
+border: 2px solid;
+border-color: whitesmoke;
+border-radius: 10% 30% 10% 30%;
+
+
+
+
+
+
+
+
+
 }
 img.ikona1{
 	float: left;
