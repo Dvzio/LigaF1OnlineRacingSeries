@@ -5,6 +5,13 @@
 	box-sizing: border-box;
 }
 
+
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, img.right, article, article h1, img.left, iframe, article p, footer, {
+    width: 100%;
+  }
+}
 body {
 	background-color: gray;
 }
@@ -267,9 +274,3 @@ text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
 
 }
 
-@media only screen and (max-width:500px) {
-  /* For mobile phones: */
-  .menu, .main, .right {
-    width: 100%;
-  }
-}
