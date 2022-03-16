@@ -8,7 +8,7 @@
 
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
-  .menu, img.right, article, article h1, img.left, iframe, article p, footer, {
+  .menu, #wrapper, {
     width: 100%;
   }
 }
