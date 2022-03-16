@@ -5,12 +5,6 @@
 	box-sizing: border-box;
 }
 
-
-@media only screen and (max-width:500px) {
-  /* For mobile phones: */
-  .menu, #wrapper, {
-    width: 100%;
-  }
 }
 body {
 	background-color: gray;
