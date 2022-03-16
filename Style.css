@@ -266,3 +266,10 @@ text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
 
 
 }
+
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
