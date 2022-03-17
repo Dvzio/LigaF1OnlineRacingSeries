@@ -63,6 +63,16 @@ article {
 	margin-bottom: 20px;
 	padding: 0 20px;
 }
+h1 {
+	
+	 
+	
+	
+	color: white;
+text-align: center;
+text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+
 
 article h1 {
 	font-size:30px;
@@ -9845,16 +9855,6 @@ td
   mso-pattern:black none;}
  {
 		 
-h1 {
-	
-	 
-	
-	
-	color: white;
-text-align: center;
-text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
-}
-
 
 
 
