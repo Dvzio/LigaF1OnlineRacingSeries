@@ -244,6 +244,8 @@ section {
 	  pointer-events: none;
 	}
   }
+@media screen and (max-width: 800px) {
+
 
   tr
   {mso-height-source:auto;}
@@ -9841,7 +9843,10 @@ td
   border-left:none;
   background:#2E2E2E;
   mso-pattern:black none;}
-
+ {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
 h1 {
 	
 	
