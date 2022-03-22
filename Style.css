@@ -63,16 +63,6 @@ article {
 	margin-bottom: 20px;
 	padding: 0 20px;
 }
-h1 {
-	
-	 
-	
-	
-	color: white;
-text-align: center;
-text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
-}
-
 
 article h1 {
 	font-size:30px;
@@ -255,14 +245,12 @@ section {
 	}
   }
 
-
-
   tr
-  {mso-height-source:auto;}
+  {mask-border-source:auto;}
 col
-  {mso-width-source:auto;}
+  {mask-border-source:auto;}
 br
-  {mso-data-placement:same-cell;}
+  {-ms-text-autospace:same-cell;}
 .style16
   {mso-number-format:General;
   text-align:general;
@@ -9853,7 +9841,7 @@ td
   border-left:none;
   background:#2E2E2E;
   mso-pattern:black none;}
- {
+
 		 
 
 
